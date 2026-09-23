@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Smartphone",
+    "price": 24999,
+    "description": "Latest smartphone with powerful performance",
+    "category": "Mobiles",
+    "emoji": "📱",
+    "stock": 20
+  },
+  {
+    "name": "Laptop",
+    "price": 59999,
+    "description": "Powerful laptop for work and study",
+    "category": "Laptops",
+    "emoji": "💻",
+    "stock": 15
+  },
+  {
+    "name": "Headphones",
+    "price": 2999,
+    "description": "Wireless headphones with clear sound",
+    "category": "Audio",
+    "emoji": "🎧",
+    "stock": 30
+  },
+  {
+    "name": "Smart Watch",
+    "price": 4999,
+    "description": "Smart watch with fitness tracking",
+    "category": "Wearables",
+    "emoji": "⌚",
+    "stock": 25
+  }
+]
