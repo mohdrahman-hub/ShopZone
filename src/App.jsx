@@ -87,7 +87,7 @@ function App() {
      ===================================================== */
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/products")
+    fetch("https://shopzone-52ep.onrender.com/api/products")
       .then((response) => response.json())
       .then((data) => {
         const formattedProducts = data.map((product) => ({
